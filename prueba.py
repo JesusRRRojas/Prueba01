@@ -4,5 +4,4 @@ c=10
 print ("resultado")
 print (a+b)
 
-
-print ("resultado agregando más palabras")
+print ("resultado agregando más palabras...")
